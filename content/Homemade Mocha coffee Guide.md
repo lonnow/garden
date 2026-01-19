@@ -1,6 +1,6 @@
 ---
 title: 家庭摩卡咖啡说明书
-"slug:": homemade mocha coffee guide
+"slug:": Homemade Mocha coffee Guide
 ---
 ## 双阀摩卡咖啡极简说明
 
