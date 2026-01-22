@@ -11,7 +11,8 @@ tags:
   - 风险管理
   - 家庭安全
 ---
-![修改图片文字 (1).png](https://myobsidianimg.oss-cn-beijing.aliyuncs.com/img/20260122171023016.png)
+>[!important] 🛡️危机来的时候不至于两手空空，措手不及
+>![修改图片文字 (1).png](https://myobsidianimg.oss-cn-beijing.aliyuncs.com/img/20260122171023016.png)
 
 ## 📱 核心数字终端：手机设置
 > [!IMPORTANT] 紧急联络与定位 (ID: Digital-Core)
